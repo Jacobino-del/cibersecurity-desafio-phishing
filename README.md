@@ -18,6 +18,7 @@ phishing using kali_Linux setoolkit
 - Site: ``` Twitter ```
 
 
+<img width="613" height="510" alt="image" src="https://github.com/user-attachments/assets/df3f7dfa-e245-493a-bae3-f454a5997e3d" />
 
 
 ### Resultado
